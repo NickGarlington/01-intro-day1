@@ -1,0 +1,42 @@
+h1{
+  color: blue; font-size: 4rem;
+}
+table{
+  width: 500px;
+}
+th{
+  text-align: left
+}
+span{
+  color: red;
+}
+li{
+  font-family: impact; font-size: 2rem;
+}
+.lantern{
+  color: green;
+}
+.sun{
+  color: blue;
+}
+.vigilante{
+  color: goldenrod;
+}
+td{
+  font-family: Verdana;
+}
+th{
+  font-size: 50px; font-family: Verdana; background-color: blue;
+}
+td{
+  background-color: red;
+}
+li{
+  color: red;
+}
+table td{
+  padding: 10px; border: dotted;
+}
+.dead{
+  width: 500px; margin: 8em;
+}
